@@ -98,15 +98,15 @@ const config = {
             items: [
               {
                 label: "Getting Started",
-                to: "getting-started",
+                to: "/getting-started",
               },
               {
                 label: "Tutorial",
-                to: "tutorial",
+                to: "/tutorial",
               },
               {
                 label: "FAQ",
-                to: "faq"
+                to: "/faq"
               }
             ],
           },
@@ -140,7 +140,7 @@ const config = {
               },
               {
                 label: "Research",
-                to: "research",
+                to: "/research",
               }
             ],
           },
